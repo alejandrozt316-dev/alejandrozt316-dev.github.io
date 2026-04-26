@@ -31,12 +31,11 @@ twitter_username: alexzt316
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Sobre Mí
-skills_title: Habilidades
-timeline_title: Trayectoria
-os_projects_title: Proyectos
-projects_title: Proyectos
+show_skills_card: true
+show_timeline_card: true
+
+show_projects_card: true
+show_projects: true
 
 # CONTACT SECTION
 # show_contact_card:
