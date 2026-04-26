@@ -17,28 +17,33 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Productor Musical Freelance
-  title-url: https://example.com/
+- title: Productor Musical & Compositor
+  title-url: https://soundcloud.com/
   date: 2022 - Presente
-  subtitle: Producción de Beats y Composición
+  subtitle: Producción de beats, composición y colaboración con artistas independientes
   tags:
     - tag: FL Studio
     - tag: Ableton Live
+    - tag: IA Audio
     - tag: Mixing
   timeline-side: right
 
-- title: Studio La Casa
+- title: Estudio La Casa
   title-url: https://example.com/
   date: 2020 - 2022
-  subtitle: Ingeniero de Sonido
+  subtitle: Ingeniero de sonido y técnico de grabación
   tags:
-    - tag: Mixing
+    - tag: Pro Tools
+    - tag: Logic Pro
+    - tag: Mezcla
     - tag: Mastering
-    - tag: Grabación
   timeline-side: right
 
-- title: Escuela de Música
+- title: Centro de Formación Musical
   title-url: https://example.com/
   date: 2018 - 2020
-  subtitle: Curso de Producción Musical
+  subtitle: Curso intensivo de producción musical y composición
+  tags:
+    - tag: Teoría Musical
+    - tag: FL Studio
   timeline-side: left

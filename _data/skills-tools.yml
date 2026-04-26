@@ -11,6 +11,15 @@
 - name: Adobe Audition
   weight: 4
 
+- name: Udio
+  weight: 4
+
+- name: Suno AI
+  weight: 4
+
+- name: Eleven Labs
+  weight: 3
+
 - name: Waves Plugins
   weight: 4
 

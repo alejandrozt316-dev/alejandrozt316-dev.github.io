@@ -5,6 +5,9 @@
 # - name: Framework
 #   weight: 5
 
+- name: IA para Producción Musical
+  weight: 4
+
 - name: MIDI
   weight: 5
 
