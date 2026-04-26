@@ -13,21 +13,34 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Musical 1
-  descr: "Este proyecto es mi inicio en el mundo de la música, donde exploré diferentes géneros y técnicas de producción. A través de este proyecto, aprendí a utilizar software de edición de audio y a crear composiciones originales. Fue una experiencia enriquecedora que me permitió expresar mi creatividad y desarrollar mis habilidades musicales."
+- name: Rhythm Studio
+  descr: "Aplicación de producción musical que permite crear ritmos y melodías. Includes sintetizador virtual, sampler y secuenciador."
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Web Audio API
+    - tag: React
+    - tag: Tone.js
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Beat Maker Pro
+  descr: "Interfaz web para crear beats colaborativos en tiempo real. Sincronización multicanal y exportación en múltiples formatos."
   demo: https://example.com/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: WebSockets
+    - tag: Firebase
+    - tag: JavaScript
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: SoundSynth
+  descr: "Biblioteca de synthesis de audio para proyectos web. Soporta osciladores, filtros y efectos."
+  demo: https://example.com/
+  tags:
+    - tag: TypeScript
+    - tag: Web Audio API
+    - tag: Node.js
+
+- name: MusicViz
+  descr: "Visualizador de audio en tiempo real con efectos reactivos. Análisis de frecuencias y sincronización visual."
+  demo: https://example.com/
+  tags:
+    - tag: Canvas
+    - tag: WebGL
+    - tag: Three.js
