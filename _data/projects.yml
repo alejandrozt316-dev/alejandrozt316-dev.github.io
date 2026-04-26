@@ -13,8 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Musical 1
+  descr: "Este proyecto es mi inicio en el mundo de la música, donde exploré diferentes géneros y técnicas de producción. A través de este proyecto, aprendí a utilizar software de edición de audio y a crear composiciones originales. Fue una experiencia enriquecedora que me permitió expresar mi creatividad y desarrollar mis habilidades musicales."
   demo: https://example.com/
   tags:
     - tag: MongoDB
