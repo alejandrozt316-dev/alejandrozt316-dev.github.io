@@ -5,32 +5,20 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Audacity
   weight: 5
 
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: Adobe Audition
   weight: 4
 
-- name: VS Code
+- name: Waves Plugins
+  weight: 4
+
+- name: FabFilter
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: Serato
+  weight: 3
+
+- name: Traktor
+  weight: 2

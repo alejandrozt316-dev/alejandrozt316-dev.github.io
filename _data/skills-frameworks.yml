@@ -5,29 +5,26 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: MIDI
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: VST
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Audio Mixing
+  weight: 5
 
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Mastering
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: Sound Design
   weight: 4
+
+- name: Synthesis
+  weight: 4
+
+- name: Sampling
+  weight: 4
+
+- name: Audio Recording
+  weight: 5

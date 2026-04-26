@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Portafolio
+title: Audio Producer
 # description: This will be meta HTML tag content. This can be ignored.
 description: Trabajos personales y proyectos de Alejandro Zuñiga
 # baseurl: The subpath of your site
@@ -14,7 +14,7 @@ baseurl: ""
 username: Alejandro Zuñiga
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Si
+typing_text: Producer
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
@@ -69,7 +69,7 @@ projects_title:
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 

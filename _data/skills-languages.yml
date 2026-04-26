@@ -5,38 +5,17 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: FL Studio
   weight: 5
 
-- name: JavaScript
+- name: Ableton Live
   weight: 4
 
-- name: Python
-  weight: 2
-
-- name: HTML5
-  weight: 4
-
-- name: CSS3
+- name: Logic Pro
   weight: 3
 
-- name: SASS
+- name: Pro Tools
   weight: 3
 
-- name: Java
-  weight: 1
-
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
-  weight: 2
-
-- name: Ruby
+- name: Cubase
   weight: 2
